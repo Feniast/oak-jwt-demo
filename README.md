@@ -1,4 +1,4 @@
-# oak jwt sample demo
+# oak jwt demo
 
 The sample project are based on oak which is a web framework for deno. The design of [oak](https://github.com/oakserver/oak) is inspired by koa with its elegant and easy-to-use middleware design. 
 
